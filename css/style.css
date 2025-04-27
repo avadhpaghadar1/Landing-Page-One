@@ -35,7 +35,7 @@
 }
 /* ---------- UNCOMMON CSS ----------*/
 .header {
-  background: url('../Images/banner.jpg');
+  background: url('../images/banner.jpg');
   background-repeat: no-repeat;
   height: 100%;
   width: 100%;
@@ -43,7 +43,7 @@
 }
 
 .header_background {
-  background: #031c49 url('../Images/header-bg-graphics.png');
+  background: #031c49 url('../images/header-bg-graphics.png');
   position: relative;
   background-repeat: repeat;
   height: 100%;
@@ -151,7 +151,7 @@
 }
 
 .our_service {
-  background-image: url('../Images/thumb-3.jpg');
+  background-image: url('../images/thumb-3.jpg');
   text-transform: uppercase;
   background-repeat: no-repeat;
   background-size: cover;
@@ -361,7 +361,7 @@
 }
 
 .define_goal {
-  background-image: url('../Images/testimonial-slider-bg.jpg');
+  background-image: url('../images/testimonial-slider-bg.jpg');
   position: relative;
 }
 
@@ -550,7 +550,7 @@
 }
 
 .footer {
-  background-image: url('../Images/footer-bg.jpg');
+  background-image: url('../images/footer-bg.jpg');
   position: relative;
   background-repeat: no-repeat;
   background-size: 100% 100%;
